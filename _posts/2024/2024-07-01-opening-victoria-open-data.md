@@ -68,11 +68,11 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
 
 
 ### The serious
-At some point, we've all been on the receiving end of a large email distribution list where someone is at their wit's end, trying to track down an obscure dataset and broadcasting their struggle to over 500 staff. Or, like in my experience, used an inferior dataset not knowing a more granular and accurate one was available.
+At some point, we've all been on the receiving end of a large email distribution list where someone is at their wit's end, trying to track down an obscure dataset and broadcasting their struggle to over 500 staff. Or, like in my experience, used an inferior dataset not knowing a more granular and accurate equivalent was available.
 
-An internal _data discovery tool_ having capabilities like those demonstrated above could drive business efficiency in terms of effort to identify and acquire accurate and relevant data, as well as promoting organisational data awareness to help innovate with data that is otherwise uncovered.
+An internal _data discovery tool_ having capabilities like those demonstrated above could drive business efficiency in terms of effort to identify and acquire accurate and relevant data, as well as promoting awareness of organisational data, and innovating with data that is otherwise under-utilised.
 
-In the last three months, Google Gemini's token size has increased from 1.5M to 2M tokens which translates to capacity of profiling around 1200 datasets in a given context.
+While this was a quick and dirty bedroom experiment, it's worth noting that in the last three months, Google Gemini's token size has increased from 1.5M to 2M tokens which translates to capacity of profiling around 1200 datasets in a given context.
 
 ### Resources
 My GitHub repository containing master dataset profile and scripts used to scrape data: https://github.com/sc0h0/openingvicgovdata
