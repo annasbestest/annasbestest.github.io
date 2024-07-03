@@ -15,7 +15,7 @@ The DataVic platform:
 - Doesn't allow search on data columns or sample data
 
 ### The idea
-Having recently watched a <a href="https://www.youtube.com/watch?v=PwFrN3dFiwY">demonstration</a> on how to query Google Gemini Pro's large context window, I realised that with some web scraping and data preparation, a large text file profiling all available datasets on DataVic might allow me to use Gemini to quickly perform discovery analyses of the DataVic library of data.
+Having recently watched a <a href="https://www.youtube.com/watch?v=PwFrN3dFiwY">demonstration</a> on how to query Google Gemini Pro's large context window, I realised that with some web scraping and data preparation, a large text file profiling all available datasets on DataVic might allow me to use Gemini to quickly perform discovery analyses of the DataVic library.
 
 ### The approach
 I wrote a script that downloaded every available CSV from the DataVic platform and created a "master_data_profile.txt" that contains the profile of every CSV dataset. The profiling for each CSV included:
