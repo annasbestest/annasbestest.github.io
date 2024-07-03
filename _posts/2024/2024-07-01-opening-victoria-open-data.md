@@ -18,7 +18,7 @@ The DataVic platform:
 Having recently watched a <a href="https://www.youtube.com/watch?v=PwFrN3dFiwY">demonstration</a> on how to query Google Gemini Pro's large context window, I realised that with some web scraping and data preparation, a large text file profiling all available datasets on DataVic might allow me to use Gemini to quickly perform discovery analyses of the DataVic library of data.
 
 ### The approach
-I wrote a script that downloaded every available CSV from the DataVic platform and created a JSON file profiling each CSV. The profiling for each CSV included:
+I wrote a script that downloaded every available CSV from the DataVic platform and created a "master_data_profile.txt" that contains the profile of every CSV dataset. The profiling for each CSV included:
 - Filename
 - Dataset page and description
 - Filesize and rows
@@ -33,7 +33,7 @@ For example:
   </figcaption>
 </figure>
 
-I had some issues with programmatically opening Excel files, so I decided to limit the analysis to simple CSVs. In total, there were around 670 CSV files. However, only 300 had more than 500 rows (I decided less than 500 rows is more a table rather than _data_). There should have been more CSVs, but it appears some of the APIs referenced by DataVic were broken.
+I had some issues with programmatically opening Excel files (they were usually small tables anyway), so I decided to limit the analysis to simple CSVs. In total, there were around 670 CSV files. However, only 300 had more than 500 rows (I decided less than 500 rows is more a table rather than _data_). There should have been more CSVs, but it appears some of the APIs referenced by DataVic were broken.
 
 <figure>
   <img src="/assets/vicopendata/nodata.png" alt="" loading="lazy">
@@ -52,7 +52,7 @@ Noting that as of July 2024 the platform boasts around 5,700 datasets, that's fa
 </figure>
 
 ### The fun
-The best way to demonstrate the capabilities of Google Gemini is to DIY and use the video linked above as a guide. I have shared the dataset profile file below however here are some inspiring examples.
+The best way to demonstrate the capabilities of Google Gemini is to DIY on the <a href="https://aistudio.google.com"></a>, using the video linked above as a general guide and importing the <a href="[https://aistudio.google.com](https://github.com/sc0h0/openingvicgovdata/blob/main/master_data_profile.txt)">master_data_profile.txt</a>. However, here are some inspiring examples.
 
 #### Example: As an "eSafety advisor"...
 
