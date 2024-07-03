@@ -52,7 +52,7 @@ Noting that as of July 2024 the platform boasts around 5,700 datasets, that's fa
 </figure>
 
 ### The fun
-The best way to demonstrate the capabilities of Google Gemini is to DIY on the <a href="https://aistudio.google.com"></a>, using the video linked above as a general guide and importing the <a href="[https://aistudio.google.com](https://github.com/sc0h0/openingvicgovdata/blob/main/master_data_profile.txt)">master_data_profile.txt</a>. However, here are some inspiring examples.
+The best way to demonstrate the capabilities of Google Gemini is to DIY on the <a href="https://aistudio.google.com">Google AI Studio</a> platform, using the video linked above as a general guide and importing the <a href="https://github.com/sc0h0/openingvicgovdata/blob/main/master_data_profile.txt">master_data_profile.txt</a> into the context window. Here are some inspiring examples.
 
 #### Example: As an "eSafety advisor"...
 
