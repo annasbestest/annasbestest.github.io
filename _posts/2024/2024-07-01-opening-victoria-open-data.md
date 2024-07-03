@@ -20,7 +20,7 @@ Having recently watched a <a href="https://www.youtube.com/watch?v=PwFrN3dFiwY">
 ### The approach
 I wrote a script that downloaded every available CSV from the DataVic platform and created a "master_data_profile.txt" that contains the profile of every CSV dataset. The profiling for each CSV included:
 - Filename
-- Dataset page and description
+- Dataset pagee URL and description
 - Filesize and rows
 - Columns and two rows of sample data
 
