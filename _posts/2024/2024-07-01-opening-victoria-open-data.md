@@ -60,13 +60,6 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
   <img src="/assets/vicopendata/eg_datascientist.png alt="" loading="lazy">
 </figure>
 
-
-#### Example: As a government "eSafety advisor"...
-
-<figure>
-  <img src="/assets/vicopendata/example1.png" alt="" loading="lazy">
-</figure>
-
 #### Example: As a Member of Parliament...
 
 <figure>
@@ -75,12 +68,9 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
 
 
 ### The serious
-I can easily see this technology being used in large companies that have employees spending a lot of their time tracking down data or using one data source not knowning there is another, more reliable data source.
+I think technology being used in large companies that have employees spending a lot of their time tracking down data or using one data source not knowning there is another, more reliable data source.
 As of today, Gemini has around 2M available tokens which translates to profiling around 1200 datasets in a given context. 
 
 ### Resources
 My GitHub repository containing master dataset profile and scripts used to scrape data: https://github.com/sc0h0/openingvicgovdata
 
-
-### End
-Feel free to fork and modify either repository (linked in the examples above) to set up your own Facebook Marketplace alerts!
