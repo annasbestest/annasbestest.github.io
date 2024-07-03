@@ -68,6 +68,10 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
 
 
 ### The serious
+We've probably all, at some point, been on the receiving end of a large email distribution list where some poor soul is at their wit's end, trying to track down an obscure dataset and has had to resort to asking over 1,000 staff the same question.
+Or, in my experience, used an inferior dataset not knowing that another more granular and accurate dataset was available. 
+I think an internal tool demonstrated in the examples above could drive efficiencies in terms of "time to acquire data" as well as 
+
 I think technology being used in large companies that have employees spending a lot of their time tracking down data or using one data source not knowning there is another, more reliable data source.
 As of today, Gemini has around 2M available tokens which translates to profiling around 1200 datasets in a given context. 
 
