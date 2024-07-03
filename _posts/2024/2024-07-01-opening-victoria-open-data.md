@@ -57,7 +57,7 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
 #### Example: As an aspiring data scientist...
 
 <figure>
-  <img src="/assets/vicopendata/eg_datascientist.png alt="" loading="lazy">
+  <img src="/assets/vicopendata/eg_datascientist.png" alt="" loading="lazy">
 </figure>
 
 #### Example: As a Member of Parliament...
