@@ -70,7 +70,7 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
 
 
 ### The serious
-At some point, we've all been on the receiving end of a large email distribution list where someone is at their wit's end, trying to track down an obscure dataset and broadcasting their struggle to over 500 staff. Or, like in my experience, used an inferior dataset not knowing a more granular and accurate equivalent was available.
+At some point, many of us within the data community have been on the receiving end of a large email distribution list where someone is at their wit's end, trying to track down an obscure dataset and broadcasting their struggle to over 500 staff. Or, like in my experience, used an inferior dataset not knowing a more granular and accurate equivalent was available.
 
 An internal _data discovery tool_ having capabilities like those demonstrated above could drive business efficiency by making it easier to identify and acquire accurate and relevant data. It would also promote awareness of organisational data and encourage innovation with data that is otherwise under-utilised.
 
