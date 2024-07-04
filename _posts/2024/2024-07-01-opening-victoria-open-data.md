@@ -7,12 +7,12 @@ title: "Opening up Victoria’s open data platform"
 
 The State Government of Victoria's _"open data platform"_ <a href="https://www.data.vic.gov.au/about-datavic">DataVic</a> is promoted as _"the place to discover and access Victorian Government open data."_
 
-However, every time I’ve attempted to use it, I’ve struggled to discover any interesting data that is more than a ~30 row Excel table. For example, the search function only references the dataset description, not the dataset name or fields.
+However, every time I’ve attempted to use it, I’ve struggled to discover any interesting data that is more than a twenty-row Excel table. For example, the search function only references the dataset description, not the dataset name or fields.
 
 ### The problem
 The DataVic platform:
-- Provides insufficient discovery tools for exploring data
-- Doesn't allow search on data columns or sample data
+- Has limited functionality for discovering and exploring data
+- Doesn't allow searches on data columns or sample data
 
 ### The idea
 Having recently watched a <a href="https://www.youtube.com/watch?v=PwFrN3dFiwY">demonstration</a> on how to query Google Gemini Pro's large context window, I realised that with some web scraping and data preparation, a large text file profiling all available datasets on DataVic might allow me to use Gemini to quickly perform discovery analyses of the DataVic library.
