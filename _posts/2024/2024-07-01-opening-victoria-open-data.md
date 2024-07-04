@@ -7,7 +7,7 @@ title: "Opening up Victoria’s open data platform"
 
 The State Government of Victoria's _"open data platform"_ <a href="https://www.data.vic.gov.au/about-datavic">DataVic</a> is promoted as _"the place to discover and access Victorian Government open data."_
 
-However, every time I’ve attempted to use it, I’ve struggled to discover any interesting data that is more than a twenty-row Excel table. For example, the search function only references the dataset description, not the dataset name or fields.
+However, every time I’ve attempted to use it, I’ve struggled to discover any interesting data that is more than a twenty-row Excel table.
 
 ### The problem
 The DataVic platform:
