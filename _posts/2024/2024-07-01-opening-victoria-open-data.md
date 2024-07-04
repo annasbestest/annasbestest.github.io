@@ -33,7 +33,7 @@ For example:
   </figcaption>
 </figure>
 
-I had some issues with programmatically opening Excel files (they were usually small tables anyway), so I decided to limit the analysis to simple CSVs. Some of the CSV APIs referenced by DataVic were also broken.
+I had some issues with programmatically opening .xls/x (Excel) files (they were usually small tables anyway), so I decided to limit the analysis to simple CSVs. Some of the CSV APIs referenced by DataVic were also broken.
 
 In total, there were around 670 CSV files. However, only 300 had more than 500 rows (I decided less than 500 rows is more a table rather than _data_). 
 
