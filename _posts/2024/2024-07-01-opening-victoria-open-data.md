@@ -62,17 +62,17 @@ The best way to demonstrate the capabilities of Google Gemini is to DIY on the <
   <img src="/assets/vicopendata/eg_datascientist.png" alt="" loading="lazy">
 </figure>
 
-#### Example: Identifying disparate datasets that could be combined...
+#### Example: Identifying disparate datasets to enhance insights...
 
 <figure>
-  <img src="/assets/vicopendata/example2.png" alt="" loading="lazy">
+  <img src="/assets/vicopendata/eg_joindata.png" alt="" loading="lazy">
 </figure>
 
 
 ### The serious
 At some point, we've all been on the receiving end of a large email distribution list where someone is at their wit's end, trying to track down an obscure dataset and broadcasting their struggle to over 500 staff. Or, like in my experience, used an inferior dataset not knowing a more granular and accurate equivalent was available.
 
-An internal _data discovery tool_ having capabilities like those demonstrated above could drive business efficiency in terms of effort to identify and acquire accurate and relevant data, as well as promoting awareness of organisational data, and innovating with data that is otherwise under-utilised.
+An internal _data discovery tool_ having capabilities like those demonstrated above could drive business efficiency by making it easier to identify and acquire accurate and relevant data. It would also promote awareness of organisational data and encourage innovation with data that is otherwise under-utilised.
 
 While this was a quick and dirty bedroom experiment on a relatively small library of data (using around 25% of the 2M token capacity), Google Gemini's token size is constantly increasing, making it more viable to explore similar applications of this technology in organisations with larger data libraries.
 
