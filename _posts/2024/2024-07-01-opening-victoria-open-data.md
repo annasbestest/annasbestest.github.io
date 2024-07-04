@@ -74,7 +74,7 @@ At some point, we've all been on the receiving end of a large email distribution
 
 An internal _data discovery tool_ having capabilities like those demonstrated above could drive business efficiency in terms of effort to identify and acquire accurate and relevant data, as well as promoting awareness of organisational data, and innovating with data that is otherwise under-utilised.
 
-While this was a quick and dirty bedroom experiment, it's worth noting that in the last three months, Google Gemini's token size has increased from 1.5M to 2M tokens which translates to capacity of profiling around 1200 datasets in a given context.
+While this was a quick and dirty bedroom experiment on a relatively small library of data (using around 25% of the 2M token capacity), Google Gemini's token size is constantly increasing, making it more viable to explore similar applications of this technology in organisations with larger data libraries.
 
 ### Resources
 My GitHub repository containing master dataset profile and scripts used to scrape data: https://github.com/sc0h0/openingvicgovdata
