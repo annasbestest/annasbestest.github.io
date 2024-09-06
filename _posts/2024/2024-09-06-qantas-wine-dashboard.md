@@ -1,11 +1,16 @@
 ---
 layout: post
-title: "When I almost lost access to my Gmail account."
+title: "Tracking Qantas Wine Bonus Point Deals"
 ---
 
 
 
-With scams and fraud on the rise, I thought I’d share a personal "near miss" experience and the steps I took to minimise the chance of it happening again. Hopefully this will never happen to you or anyone you know, but if it does, it may be helpful to know what to do and how to spot the warning signs.
+Qantas Wine is a marketplace where you can purchase wines using either cash or Qantas points. Some offers even allow you to earn bonus Qantas points, making it a popular choice for those looking to boost their point-earning strategies.
+
+Currently there are a couple of websites (<a href="https://flightformula.com/tools/qfwine">here</a> and <a href="https://wines.reflyable.com.au/">here</a>) that track and display the wines sorted by Cents Per Point earned. However, not everyone is willing to buy an $80 bottle of wine to receive points at the best rate!
+
+So I decided to build my own tracking and reporting tool that shows both dimensions (Cents Per Point and $/bottle) to make a more informed decision. This way, you can easily balance point-earning potential with the price of the bottle that suits your budget.
+
 
 ## Wednesday, 9th October 2019
 I was working from home and just as the last meeting wrapped up at around 5:30 PM, I noticed my phone signal drop out and a Telstra email notification appear.
