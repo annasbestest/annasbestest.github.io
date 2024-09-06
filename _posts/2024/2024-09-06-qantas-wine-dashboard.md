@@ -7,15 +7,21 @@ title: "Tracking Qantas Wine Bonus Point Deals"
 
 Qantas Wine is a marketplace where you can purchase wines using either cash or Qantas points. Some offers even allow you to earn bonus Qantas points, making it a popular choice for those looking to boost their point-earning strategies.
 
+For example, spend $354.00 on 6 bottles of this Tahbilk (priced at $59.00 per bottle), and you will receive 12k Qantas points. This equates to 2.95 cents per point.
+
+<figure> <img src="/assets/qantas-wine/eg1.png" alt="" loading="lazy"> </figure>
+Alternatively, spend $215.88 on this 12 pack of d'Arenberg (priced at $17.99 per bottle), and you will receive 4.5k Qantas points. This equates to a less than ideal 2.8 cents per point.
+
+<figure> <img src="/assets/qantas-wine/eg2.png" alt="" loading="lazy"> </figure>
+
 Currently there are a couple of websites (<a href="https://flightformula.com/tools/qfwine">here</a> and <a href="https://wines.reflyable.com.au/">here</a>) that track and display the wines sorted by Cents Per Point earned. However, not everyone is willing to buy an $80 bottle of wine to receive points at the best rate!
 
 So I decided to build my own tracking and reporting tool that shows both dimensions (Cents Per Point and $/bottle) to make a more informed decision. This way, you can easily balance point-earning potential with the price of the bottle that suits your budget.
 
+## The dashboard
+Link to dashboard [HERE]([url](https://appappntaswine-b8zvhwxo7znduhwskkcmrh.streamlit.app/)).
 
-## Wednesday, 9th October 2019
-I was working from home and just as the last meeting wrapped up at around 5:30 PM, I noticed my phone signal drop out and a Telstra email notification appear.
-
-Initially, I didn't pay too much attention to the email and thought maybe it was related to why I had lost phone service.
+Historical and current wine price (per bottle) and corresponding Cents per
 
 Moments later, I received another notification on my phone that someone was attempting to sign into my Gmail account, asking whether it was me.
 
