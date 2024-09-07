@@ -60,6 +60,8 @@ Nonetheless, I was able to extract the wine information by locating the JSON dat
   <figcaption>Checksum was used to identify changing wine attributes and trigger a new record as part of the Type 2 SCD table.</figcaption>
 </figure>
 
+The code to scrape the Qantas Wine store and prepare the SCD table is here: https://github.com/sc0h0/streamlit_qantaswine/tree/main/scrape_code
+
 
 
 
