@@ -39,15 +39,32 @@ I’ve also highlighted Pareto efficient wines using star markers. A Pareto effi
 
 ## Dashboard build (technical)
 
-The dashboard is built using Streamlit, an open-source Python library that allows for the quick and easy creation of interactive web-based applications and dashboards for data science and reporting.
+The dashboard is built using Streamlit, an open-source Python library that makes it quick and easy to create interactive web-based applications and dashboards for data science and reporting.
 
-The code is hosted on my personal GitHub repository, and the app is deployed via Streamlit Cloud, which pulls updates directly from the repo to ensure the app stays current with any changes.
+The Python code is hosted on my personal GitHub repository, with the app deployed via Streamlit Cloud. This setup ensures the app automatically pulls updates from the repo to stay current with any changes.
+
+I used Streamlit's secrets feature to store the Google Drive URL where the (web-scraped) wine database is stored, so I could control how the data is accessed without giving unfettered access to an unknown user base.
 
 Dashboard code repo: https://github.com/sc0h0/streamlit_qantaswine
 
 ## Scraping and ETL (technical)
 
-This was the most time-consuming part of the app! 
+This was the most time-consuming part of the app!
 
-The wines with bonus point offers can be viewed at this URL (https://wine.qantas.com/c/browse-products?BonusPoints=1) which is unforuntatle a dynamicly loaded Javascript table rather than a html table.  
+The wines with bonus point offers are listed at this URL (https://wine.qantas.com/c/browse-products?BonusPoints=1), which, unfortunately, uses a dynamically rendered JavaScript table rather than a static HTML table.
+
+Nonetheless, I was able to extract the wine information by locating the JSON data embedded in the page. The extracted JSON data was then saved as daily CSV snapshots. A Type 2 Slowly Changing Dimension was implemented to allow me to track both historical and current pricing attributes.
+
+<figure style="text-align: center;">
+  <img src="/assets/qantas-wine/checksum.png" alt="" loading="lazy" style="width: 100%; margin: 0 auto;">
+  <figcaption>Checksum was used to identify changing wine attributes and trigger a new record as part of the Type 2 SCD table.</figcaption>
+</figure>
+
+
+
+
+
+
+
+
 
