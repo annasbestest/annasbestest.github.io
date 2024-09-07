@@ -45,6 +45,9 @@ The code is hosted on my personal GitHub repository, and the app is deployed via
 
 Dashboard code repo: https://github.com/sc0h0/streamlit_qantaswine
 
-## ETL (technical)
+## Scraping and ETL (technical)
 
+This was the most time-consuming part of the app! 
+
+The wines with bonus point offers can be viewed at this URL (https://wine.qantas.com/c/browse-products?BonusPoints=1) which is unforuntatle a dynamicly loaded Javascript table rather than a html table.  
 
