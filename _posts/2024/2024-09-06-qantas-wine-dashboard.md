@@ -24,7 +24,7 @@ Currently there are a couple of websites (<a href="https://flightformula.com/too
 So I decided to build my own tracking and reporting tool that shows both factors (Cents Per Point and $/bottle) to make a more informed decision. This way, you can easily balance point-earning potential with the price of the bottle that suits your budget.
 
 ## The dashboard
-Link to dashboard [HERE]([url](https://appappntaswine-b8zvhwxo7znduhwskkcmrh.streamlit.app/)).
+Link to dashboard <a href="https://appappntaswine-b8zvhwxo7znduhwskkcmrh.streamlit.app">HERE</a>
 
 The dashboard plots wine prices (per bottle) against the corresponding Cents per Point earned in a scatter plot, making it easier to spot the 'sweet spots.'
 
