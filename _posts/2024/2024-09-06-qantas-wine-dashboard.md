@@ -32,9 +32,18 @@ Both historical and current bonus point offers are displayed, helping you see wh
 
 I’ve also highlighted Pareto efficient wines using star markers. A Pareto efficient wine is one where no other wine has both a lower price and a lower cost per point. In other words, it represents the best trade-off. You cannot lower one attribute (like price) without raising the other (like cost per point).
 
-
+<figure style="text-align: center;">
+  <img src="/assets/qantas-wine/dash1.png" alt="" loading="lazy" style="width: 100%; margin: 0 auto;">
+  <figcaption>Hover mouse or tap wine to view details. Then search for wine below to get link to wine page.</figcaption>
+</figure>
 
 ## Dashboard build (technical)
+
+The dashboard is built using Streamlit, an open-source Python library that allows for the quick and easy creation of interactive web-based applications and dashboards for data science and reporting.
+
+The code is hosted on my personal GitHub repository, and the app is deployed via Streamlit Cloud, which pulls updates directly from the repo to ensure the app stays current with any changes.
+
+Dashboard code repo: https://github.com/sc0h0/streamlit_qantaswine
 
 ## ETL (technical)
 
