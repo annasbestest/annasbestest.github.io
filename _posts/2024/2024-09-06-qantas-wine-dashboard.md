@@ -39,11 +39,11 @@ I’ve also highlighted Pareto efficient wines using star markers. A Pareto effi
 
 ## Dashboard build (technical)
 
-The dashboard is built using Streamlit, an open-source Python library that makes it quick and easy to create interactive web-based applications and dashboards for data science and reporting.
+The dashboard is built using Streamlit, an open-source Python library that makes it quick and easy to create interactive web based applications and dashboards for data science and reporting.
 
 The Python code is hosted on my personal GitHub repository, with the app deployed via Streamlit Cloud. This setup ensures the app automatically pulls updates from the repo to stay current with any changes.
 
-I used Streamlit's secrets feature to store the Google Drive URL where the (web-scraped) wine database is stored, so I could control how the data is accessed without giving unfettered access to an unknown user base.
+I used Streamlit's secrets feature to store the Google Drive URL where the (web-scraped) wine database is stored, allowing me to control how the data is accessed without giving unfettered access to an unknown user base.
 
 Dashboard code repo: https://github.com/sc0h0/streamlit_qantaswine
 
