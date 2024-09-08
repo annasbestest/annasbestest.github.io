@@ -28,9 +28,9 @@ Link to dashboard <a href="https://appappntaswine-b8zvhwxo7znduhwskkcmrh.streaml
 
 The dashboard plots wine prices (per bottle) against the corresponding Cents per Point earned in a scatter plot, making it easier to spot the 'sweet spots.'
 
-Both historical and current bonus point offers are displayed, helping you see whether current promotions are a good deal or if it’s better to wait for something else.
+Both historical and current bonus point offers are displayed, helping you see whether current promotions are a good deal or if it’s better to wait for something better.
 
-I’ve also highlighted Pareto efficient wines using star markers. A Pareto efficient wine is one where no other wine has both a lower price and a lower cost per point. In other words, it represents the best trade-off. You can’t lower one attribute (like price) without increasing the other (like cost per point). I came across this concept in a great article (<a href="https://www.mayerowitz.io/blog/mario-meets-pareto">link</a>) that uses it to select the best Mario Kart character.
+I’ve also highlighted Pareto efficient wines using star markers (<i class="fas fa-star"></i>). A Pareto efficient wine is one where no other wine has both a lower price and a lower cost per point. In other words, it represents the best trade-off. You can’t lower one attribute (like price) without increasing the other (like cost per point). I came across this concept in a great article (<a href="https://www.mayerowitz.io/blog/mario-meets-pareto">link</a>) that uses it to select the best Mario Kart character.
 
 <figure style="text-align: center;">
   <img src="/assets/qantas-wine/dash1.png" alt="" loading="lazy" style="width: 100%; margin: 0 auto;">
