@@ -13,7 +13,7 @@ For example, spend $354.00 on 6 bottles of this Tahbilk (priced at $59.00 per bo
   <img src="/assets/qantas-wine/eg1.png" alt="" loading="lazy" style="width: 50%; margin: 0 auto;">
 </figure>
 
-Alternatively, spend $215.88 on this 12 pack of d'Arenberg (priced at $17.99 per bottle), and you will receive 4.5k Qantas points. This equates to a less than ideal 2.8 cents per point, but with the benefit of not having to fork out $59.00 for a bottle of wine.
+Alternatively, spend $215.88 on this 12 pack of d'Arenberg (priced at $17.99 per bottle), and you will receive 4.5k Qantas points. This equates to 2.8 cents per point, but with the benefit of not having to fork out $59.00 for a bottle of wine.
 
 <figure style="text-align: center;">
   <img src="/assets/qantas-wine/eg2.png" alt="" loading="lazy" style="width: 50%; margin: 0 auto;">
