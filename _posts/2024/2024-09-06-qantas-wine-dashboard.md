@@ -21,7 +21,7 @@ Alternatively, spend $215.88 on this 12 pack of d'Arenberg (priced at $17.99 per
 
 Currently there are a couple of websites (<a href="https://flightformula.com/tools/qfwine">here</a> and <a href="https://wines.reflyable.com.au/">here</a>) that track and display the wines sorted by Cents Per Point earned. However, not everyone is willing to buy an $80 bottle of wine to receive points at the best rate!
 
-So I decided to build my own tracking and reporting tool that shows both factors (Cents Per Point and $/bottle) to make a more informed decision. This way, you can easily balance point-earning potential with the price of the bottle that suits your budget.
+So I decided to build my own tracking and reporting tool that shows both metrics (Cents Per Point and $/bottle) to make a more informed decision. This way, you can easily balance point-earning potential with the price of the bottle that suits your budget.
 
 ## The dashboard
 Link to dashboard <a href="https://appappntaswine-b8zvhwxo7znduhwskkcmrh.streamlit.app">HERE</a>
